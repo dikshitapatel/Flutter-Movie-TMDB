@@ -15,8 +15,6 @@
 - Customizes the navigation bar appearance.
 
 
-## Installation
-
 ## Usage
 
 1. Launch the app.
